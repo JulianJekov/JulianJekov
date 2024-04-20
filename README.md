@@ -27,7 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,idea,leaf" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,idea" />
     <img src="https://skillicons.dev/icons?i=javascript,html,css,postman,vscode,github" /><br>
 </div>
 
