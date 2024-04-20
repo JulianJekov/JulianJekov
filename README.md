@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 📚 [I’m currently studying in ](https://softuni.bg)
+ 📚 I’m currently studying in [SoftUni](https://softuni.bg)
  
  🌱 I’m currently learning **Java**
 
