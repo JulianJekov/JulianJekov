@@ -47,7 +47,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JulianJekov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=JulianJekov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&rank_icon=github&border_radius=10" height="150" alt="stats graph"  />
+    <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianJekov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="languages graph"  />
 </div>
 
