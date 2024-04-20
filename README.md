@@ -1,4 +1,4 @@
-<h1 align="end">
+<h1 align="right">
 ![](https://komarev.com/ghpvc/?username=JulianJekov)
 </h1>
 
